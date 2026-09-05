@@ -1,5 +1,10 @@
-<h1 align="center">Hi, I'm Ho Quy Ly (Ly Hồ) 👋</h1>
-<h3 align="center">Frontend Developer · IT Student · Exploring UI/UX Design</h3>
+<p align="center">
+  <img src="./assets/banner-pixel.svg" width="100%" alt="pixel-art twilight sky banner" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1200&color=F7CE68&center=true&vCenter=true&width=600&height=70&lines=HO+QUY+LY;FRONTEND+DEV;PIXEL+%26+UI%2FUX" alt="typing pixel title" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hoquylyka">
